@@ -22,7 +22,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/ramseyndifun/github-maven-app</url>
+      <url>https://maven.pkg.github.com/ramseyndifor/github-maven-app</url>
     </repository>
   </distributionManagement>
 
